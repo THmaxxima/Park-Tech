@@ -1,0 +1,484 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PTI_GUIDANCE_CARCOUNT_Project
+</name>
+</assembly>
+<members>
+<member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._011">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._021">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._03">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._04">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._041">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._05">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._051">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._06">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._07">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._08">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._081">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._09">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._101">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._14">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._15">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._17">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._18">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._23">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._26">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources._next">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.add1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_050211">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_0502111">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_0502112">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_0502113">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_050483">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_0504831">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_050747">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_0507471">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_0507472">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Alpha_Dista_Icon_050901">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.AMD64_FX_cpu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_bottom">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_bottom_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_bottom_left1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_bottom_rigth">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_bottom_rigth1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_bottom1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_left1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_right1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_top">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_top_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_top_left1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_top_right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_top_right1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.arrow_top1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.building_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.building_edit2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.callpoint_status">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.car">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.car_full">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.car2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.car21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.car22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.chrysler">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.control_panel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Copy_of_Vista_icons_08">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Cover_GMS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Cover_GMS2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Cover_GMS3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.cpu_resources">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.database_refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.database_save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.ferrari">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Final_Png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Final_Png1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Forum">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.icons8_vpn_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.images__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.img_not_available">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Logo_guidance">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.main_display2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.main_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Messenger_Alienware">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.My_Documents2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.mycomputer_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Netdrive_Connected">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Netdrive_Connected48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Netdrive_Connected481">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Netdrive_Connected4811">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.NetDrive_disconnect">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.NetDrive_disconnect1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.NetDrive_disconnect48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Object_Dock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.process">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.Regedit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.server">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.silen_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.silen_edit2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.thai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.up24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.User_Computer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.utilman">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.zcu_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources.zcu_status">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PTI_GUIDANCE_CARCOUNT_Project.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

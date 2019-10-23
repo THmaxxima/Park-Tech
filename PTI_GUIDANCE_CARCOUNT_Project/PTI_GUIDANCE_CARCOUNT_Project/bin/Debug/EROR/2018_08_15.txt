@@ -1,0 +1,320 @@
+15/08/2018 10:27:42=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 10:27:42=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:43=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 10:27:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:01=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:02=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 10:30:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 10:30:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:10=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 10:31:11=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:31=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:32=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:18:32=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:32=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:32=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 11:18:32=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:57=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 11:19:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:04=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:05=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:56:05=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:05=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:05=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 11:56:05=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:02=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:03=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:58:23=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+15/08/2018 11:58:23=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+15/08/2018 11:58:23=> readTableData :SELECT Status_Alarm_Id,Status_Alarm_Image,isnull(Status_visible,'0') as Status_visible,Status_Alarm_Color_A,Status_Alarm_Color_R,Status_Alarm_Color_G,Status_Alarm_Color_B FROM [Mas_Status_Alarm] order by [Status_Alarm_Id]:Invalid column name 'Status_Alarm_Image'.
+Invalid column name 'Status_visible'.
+15/08/2018 11:58:23=> readTableData :SELECT * FROM  Mas_Status_Callpoint_Alarm  order by [Status_Alarm_Id]:Invalid object name 'Mas_Status_Callpoint_Alarm'.
+15/08/2018 11:58:24=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:25=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:27=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:28=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:29=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:50=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:51=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:52=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:53=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:55=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:56=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:57=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:58=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:58:59=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:59:00=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:59:01=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:59:02=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:59:03=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:59:05=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+15/08/2018 11:59:58=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:58=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:59=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Invalid object name 'LANG_Select'.
+15/08/2018 11:59:59=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:59=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:59=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Invalid object name 'LANG_Discription'.
+15/08/2018 11:59:59=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Invalid object name 'LANG_Discription'.
+15/08/2018 12:05:12=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:13=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:14=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:15=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:16=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:18=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:19=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:29=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:31=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:33=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:35=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 12:05:37=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid column name 'Alarm_Id'.
+Invalid column name 'Alarm_Id'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+15/08/2018 17:07:52=> readTableData :SELECT * FROM [dbo].[Mas_Lot] WHERE [HW_Lot_Id]='0101011001':Invalid object name 'dbo.Mas_Lot'.
+15/08/2018 17:07:55=> readTableData :SELECT * FROM [dbo].[Mas_Lot] WHERE [HW_Lot_Id]='0101011007':Invalid object name 'dbo.Mas_Lot'.
+15/08/2018 17:08:46=> readTableData :SELECT * FROM [dbo].[Mas_Lot] WHERE [HW_Lot_Id]='0101011001':Invalid object name 'dbo.Mas_Lot'.
+15/08/2018 17:09:00=> readTableData :SELECT * FROM [dbo].[Mas_Lot] WHERE [HW_Lot_Id]='0101011002':Invalid object name 'dbo.Mas_Lot'.

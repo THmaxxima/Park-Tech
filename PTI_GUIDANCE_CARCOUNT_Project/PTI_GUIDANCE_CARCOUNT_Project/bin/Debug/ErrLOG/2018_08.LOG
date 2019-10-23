@@ -1,0 +1,47 @@
+07-08-2018 00:10:03 : ตรวจพบความผิดพลาด ที่ Mas_Station_Company : btn_Back_Ground_Click เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : The path is not of a legal form. : 
+07-08-2018 00:10:07 : ตรวจพบความผิดพลาด ที่ Mas_Station_Company : btn_Logo_Click เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : The path is not of a legal form. : 
+09-08-2018 00:11:47 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+09-08-2018 00:11:49 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Length of the data to decrypt is invalid. : 
+09-08-2018 00:11:55 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Length of the data to decrypt is invalid. : 
+09-08-2018 00:11:59 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+09-08-2018 00:12:05 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+09-08-2018 00:12:05 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+09-08-2018 00:12:27 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+09-08-2018 00:12:27 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+09-08-2018 00:12:33 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Length of the data to decrypt is invalid. : 
+09-08-2018 00:12:43 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+09-08-2018 00:12:44 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Length of the data to decrypt is invalid. : 
+09-08-2018 15:27:36 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+09-08-2018 16:38:40 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+09-08-2018 18:13:26 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+09-08-2018 18:15:27 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+09-08-2018 18:17:23 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+09-08-2018 18:17:46 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+09-08-2018 18:19:44 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+09-08-2018 19:06:13 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed. : 
+15-08-2018 11:58:34 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 11:58:35 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 11:59:06 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : AddListView เลขที่ Err No : 3265 รายละเอียดข้อผิดพลาด Err Descript : Item cannot be found in the collection corresponding to the requested name or ordinal. : 
+15-08-2018 13:09:43 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : btn_Add_Picture_Click เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : The path is not of a legal form. : 
+15-08-2018 13:09:46 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : btn_Add_Picture_Click เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : The path is not of a legal form. : 
+15-08-2018 13:11:13 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+15-08-2018 13:11:17 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : Save_Mas_Floor เลขที่ Err No : 0 รายละเอียดข้อผิดพลาด Err Descript :  : 
+15-08-2018 17:20:23 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 91 รายละเอียดข้อผิดพลาด Err Descript : Object reference not set to an instance of an object. : 
+15-08-2018 17:20:32 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : Save_Mas_Alam เลขที่ Err No : 0 รายละเอียดข้อผิดพลาด Err Descript :  : 
+15-08-2018 17:23:35 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 91 รายละเอียดข้อผิดพลาด Err Descript : Object reference not set to an instance of an object. : 
+15-08-2018 17:24:32 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : Save_Mas_Alam เลขที่ Err No : 0 รายละเอียดข้อผิดพลาด Err Descript :  : 
+15-08-2018 17:49:10 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : Save_Mas_Floor เลขที่ Err No : 0 รายละเอียดข้อผิดพลาด Err Descript :  : 
+15-08-2018 23:36:43 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : Save_Mas_Floor เลขที่ Err No : 0 รายละเอียดข้อผิดพลาด Err Descript :  : 
+15-08-2018 23:37:18 : ตรวจพบความผิดพลาด ที่ Frm_config_controller : Save_Mas_Floor เลขที่ Err No : 0 รายละเอียดข้อผิดพลาด Err Descript :  : 
+15-08-2018 23:46:05 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 23:46:07 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 23:46:08 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 23:46:09 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 23:46:09 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 23:46:09 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 23:46:10 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+15-08-2018 23:46:10 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+31-08-2018 13:04:14 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 91 รายละเอียดข้อผิดพลาด Err Descript : Object reference not set to an instance of an object. : 
+31-08-2018 13:22:26 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 91 รายละเอียดข้อผิดพลาด Err Descript : Object reference not set to an instance of an object. : 
+31-08-2018 13:22:41 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 91 รายละเอียดข้อผิดพลาด Err Descript : Object reference not set to an instance of an object. : 
+31-08-2018 13:36:50 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 91 รายละเอียดข้อผิดพลาด Err Descript : Object reference not set to an instance of an object. : 

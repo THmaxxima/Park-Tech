@@ -1,0 +1,211 @@
+23/10/2019 20:25:03=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:25:03=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:25:04=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:25:05=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:06=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:07=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:19=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:25:19=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:25:19=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:25:21=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:22=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:23=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:24=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:25=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:26=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:27=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:28=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:30=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:31=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:32=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:33=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:34=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:35=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:36=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:37=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:38=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:40=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:41=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:42=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:43=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:44=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:45=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:46=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:47=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:48=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:49=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:51=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:52=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:53=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:54=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:55=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:56=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:57=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:58=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:25:59=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:00=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:02=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:13=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:14=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:15=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:17=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:18=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:19=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:20=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:21=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:22=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:23=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:24=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:25=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:27=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:28=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:29=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:30=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:31=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:32=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:33=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:26:34=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'V_Main_Floor_Display'.
+23/10/2019 20:31:16=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:31:16=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:31:17=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:39:15=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:39:15=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:39:16=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:41:13=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:41:13=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:41:13=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:43:55=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:43:55=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:43:55=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:46:35=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:46:35=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:46:35=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:48:24=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:48:24=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:48:24=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 20:56:14=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 20:56:14=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 20:56:14=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:01:20=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:01:20=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:01:21=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:02:52=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='1':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:53=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='10001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:53=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='2':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:53=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='20001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:54=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='3':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:54=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='30001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:54=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='31001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:55=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='32001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:55=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='33001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:55=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='4':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:55=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='40001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:56=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='41':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:56=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='42':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:56=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='43':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:57=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='50001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:57=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='1':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:57=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='10001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:58=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='2':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:58=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='20001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:58=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='3':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:58=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='30001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:59=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='31001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:59=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='32001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:02:59=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='33001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:00=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='4':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:00=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='40001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:00=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='41':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:00=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='42':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:01=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='43':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:01=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '1' and isnull([Group_id],'') ='50001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:09=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='1':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:09=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='10001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:10=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='2':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:10=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='20001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:10=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='3':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:11=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='30001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:11=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='31001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:11=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='32001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:12=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='33001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:12=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='4':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:13=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='40001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:13=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='41':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:13=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='42':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:14=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='43':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:14=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='50001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:17=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='1':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:17=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='10001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:18=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='2':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:18=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='20001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:18=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='3':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:19=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='30001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:19=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='31001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:19=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='32001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:20=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='33001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:20=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='4':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:21=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='40001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:21=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='41':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:21=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='42':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:22=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='43':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:22=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '6' and isnull([Group_id],'') ='50001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:29=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='1':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:29=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='10001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:30=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='2':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:30=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='20001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:30=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='3':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:31=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='30001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:31=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='31001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:31=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='32001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:32=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='33001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:32=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='4':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:33=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='40001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:33=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='41':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:33=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='42':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:34=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='43':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:03:34=> readTableData :SELECT TOP 1 [ID] FROM V_Menu_Permission WHERE [User_Level] = '7' and isnull([Group_id],'') ='50001':Invalid object name 'V_Menu_Permission'.
+23/10/2019 21:09:55=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:09:55=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:09:55=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:10:17=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:10:18=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:10:18=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:12:37=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:12:37=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:12:37=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:15:38=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:15:39=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:15:39=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:18:45=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:18:45=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:18:45=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:19:29=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:19:29=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:19:29=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:29:36=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:29:36=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:29:36=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:36:54=>  CREATE VIEW [dbo].[V_Menu_Permission]  AS  SELECT        ID, MenuName, Control_Name, User_Level, User_Id, IsCommit,                               (SELECT        TOP (1) Menu_Group_ID                                 FROM            dbo.Mas_Menu                                 WHERE        (Menu_Name = dbo.Menu_Permit.MenuName)) AS Group_id  FROM            dbo.Menu_Permit
+23/10/2019 21:36:56=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:36:56=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:36:56=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:41:44=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:41:44=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:41:44=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:45:03=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:45:05=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:45:09=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 21:55:10=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 21:55:10=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 21:55:10=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 22:07:20=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 22:07:20=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 22:07:21=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 22:09:13=> ExcuteNoneQury : UPDATE Mas_User SET User_Name = 'theparq', User_FirstName = 'The Parq', User_LastName = '', User_FirstName_TH = '', User_LastName_TH = '', User_Dept = '1', User_Position = '6', Cancel = 0, User_Gender = 'MALE' WHERE USER_ID = '0001':Invalid column name 'User_Gender'.
+23/10/2019 22:10:19=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 22:10:19=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 22:10:19=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.
+23/10/2019 22:11:13=> DELETE FROM [Menu_Permit] WHERE [User_Level] = '6' AND [Control_Name] = 'MENU'
+23/10/2019 22:12:01=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):Invalid object name 'MAS_IP'.
+23/10/2019 22:12:02=> readTableData :SELECT * FROM Mas_Size_Lot:Invalid object name 'Mas_Size_Lot'.
+23/10/2019 22:12:02=> readTableData :SELECT * FROM Mas_Size_Callpoint:Invalid object name 'Mas_Size_Callpoint'.

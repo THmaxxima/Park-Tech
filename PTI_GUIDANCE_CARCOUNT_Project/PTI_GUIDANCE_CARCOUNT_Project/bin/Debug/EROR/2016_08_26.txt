@@ -1,0 +1,39 @@
+26/08/2016 13:19:52=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':The ConnectionString property has not been initialized.
+26/08/2016 13:19:52=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':The ConnectionString property has not been initialized.
+26/08/2016 13:19:53=> readTableData :SELECT DISTINCT * FROM MAS_IP WHERE Type in('0','1'):The ConnectionString property has not been initialized.
+26/08/2016 13:19:53=> readTableData :SELECT * FROM Mas_Size_Lot:The ConnectionString property has not been initialized.
+26/08/2016 13:19:53=> readTableData :SELECT * FROM Mas_Size_Callpoint:The ConnectionString property has not been initialized.
+26/08/2016 13:19:53=> readTableData :SELECT Status_Alarm_Id,Status_Alarm_Image,isnull(Status_visible,'0') as Status_visible,Status_Alarm_Color_A,Status_Alarm_Color_R,Status_Alarm_Color_G,Status_Alarm_Color_B FROM [Mas_Status_Alarm] order by [Status_Alarm_Id]:The ConnectionString property has not been initialized.
+26/08/2016 13:19:53=> readTableData :SELECT * FROM  Mas_Status_Callpoint_Alarm  order by [Status_Alarm_Id]:The ConnectionString property has not been initialized.
+26/08/2016 13:19:54=> readTableData : SELECT count(*) FROM V_Mas_CallPoint_Alert WHERE Count_Status_id > 0 :The ConnectionString property has not been initialized.
+26/08/2016 13:19:54=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:The ConnectionString property has not been initialized.
+26/08/2016 13:19:54=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :The ConnectionString property has not been initialized.
+26/08/2016 13:19:54=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :The ConnectionString property has not been initialized.
+26/08/2016 13:19:54=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :The ConnectionString property has not been initialized.
+26/08/2016 13:19:54=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:The ConnectionString property has not been initialized.
+26/08/2016 13:19:54=> readTableData : SELECT * FROM V_Mas_CallPoint_Alert WHERE Count_Status_id > 0 order by Floor_No:The ConnectionString property has not been initialized.

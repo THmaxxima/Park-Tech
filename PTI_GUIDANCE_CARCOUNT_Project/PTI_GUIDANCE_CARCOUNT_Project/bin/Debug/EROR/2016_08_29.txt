@@ -1,0 +1,1 @@
+29/08/2016 11:49:59=> ExcuteNoneQury ::ExecuteNonQuery: CommandText property has not been initialized

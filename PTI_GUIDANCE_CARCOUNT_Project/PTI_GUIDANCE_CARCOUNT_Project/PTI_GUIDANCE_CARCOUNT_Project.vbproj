@@ -1,0 +1,711 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E0690B54-6889-4C1A-95ED-EAED356FB1C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PTI_GUIDANCE_CARCOUNT_Project.My.MyApplication</StartupObject>
+    <RootNamespace>PTI_GUIDANCE_CARCOUNT_Project</RootNamespace>
+    <AssemblyName>PTI_GUIDANCE_CARCOUNT_Project</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>3.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\EXE_GUIDANCE\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\EXE_GUIDANCE\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>pt_logo_XvJ_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'MTL_GUIDANCE|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>obj\x86\MTL_GUIDANCE\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>..\..\EXE_GUIDANCE\MTL_GUIDANCE.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\EXE_GUIDANCE\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>..\..\EXE_GUIDANCE\MTL_GUIDANCE.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\EXE_GUIDANCE\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\MTL_GUIDANCE.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'MTL_GUIDANCE|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\MTL_GUIDANCE\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>..\..\EXE_GUIDANCE\MTL_GUIDANCE.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>..\..\EXE_GUIDANCE\MTL_GUIDANCE.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>..\..\EXE_GUIDANCE\MTL_GUIDANCE.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'MTL_GUIDANCE|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\EXE_GUIDANCE\</OutputPath>
+    <DocumentationFile>PTI_GUIDANCE_CARCOUNT_Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>..\..\EXE_GUIDANCE\MTL_GUIDANCE.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.Threed">
+      <HintPath>C:\Users\chatc\AppData\Local\Temporary Projects\PTI_GUIDANCE_CARCOUNT_Project\AxInterop.Threed.dll</HintPath>
+    </Reference>
+    <Reference Include="Cryptography.Lib">
+      <HintPath>C:\Users\chatc\AppData\Local\Temporary Projects\PTI_GUIDANCE_CARCOUNT_Project\Cryptography.Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar.Design, Version=9.5.0.0, Culture=neutral, PublicKeyToken=3caa4ad0ba35cf8d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\chatc\AppData\Local\Temporary Projects\PTI_GUIDANCE_CARCOUNT_Project\DevComponents.DotNetBar.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=9.5.0.0, Culture=neutral, PublicKeyToken=d159a0cb0c2a1170, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\chatc\AppData\Local\Temporary Projects\PTI_GUIDANCE_CARCOUNT_Project\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Interop.ADODB, Version=2.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Users\chatc\AppData\Local\Temporary Projects\PTI_GUIDANCE_CARCOUNT_Project\Interop.ADODB.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.nAuthen, Version=9.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Users\chatc\AppData\Local\Temporary Projects\PTI_GUIDANCE_CARCOUNT_Project\Interop.nAuthen.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Studio\Shared\Visual Studio Tools for Office\PIA\Office15\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility.Data" />
+    <Reference Include="MRG.Controls.UI, Version=1.0.5963.8522, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EXE_GUIDANCE\MRG.Controls.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="ADODB" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abount\frm_With_Parktech.designer.vb">
+      <DependentUpon>frm_With_Parktech.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abount\frm_With_Parktech.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddIn\Mas_Station_Company.designer.vb">
+      <DependentUpon>Mas_Station_Company.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddIn\Mas_Station_Company.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Class\CDatabase.vb" />
+    <Compile Include="Dialog_message\Dg_msg_Error.Designer.vb">
+      <DependentUpon>Dg_msg_Error.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_message\Dg_msg_Error.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog_message\Dg_msg_Ok.Designer.vb">
+      <DependentUpon>Dg_msg_Ok.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_message\Dg_msg_Ok.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog_message\Dg_msg_Ok_Cancle.Designer.vb">
+      <DependentUpon>Dg_msg_Ok_Cancle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog_message\Dg_msg_Ok_Cancle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\DataGridViewProgressBarXColumn.vb" />
+    <Compile Include="Menu\DataGridViewProgressColumn.vb" />
+    <Compile Include="Menu\frmMain_Menu_NEW.Designer.vb">
+      <DependentUpon>frmMain_Menu_NEW.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Menu\frmMain_Menu_NEW.vb">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Menu\Frm_change_language.Designer.vb">
+      <DependentUpon>Frm_change_language.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Frm_change_language.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\frm_Parking_Quitity.Designer.vb">
+      <DependentUpon>frm_Parking_Quitity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\frm_Parking_Quitity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\frm_Setting_Car_Controller.Designer.vb">
+      <DependentUpon>frm_Setting_Car_Controller.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\frm_Setting_Car_Controller.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\frm_Setting_Parking.designer.vb">
+      <DependentUpon>frm_Setting_Parking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\frm_Setting_Parking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Module_Menu_New.vb" />
+    <Compile Include="Module\Class_sound.vb" />
+    <Compile Include="Module\Lange.vb" />
+    <Compile Include="Module\mConfig.vb" />
+    <Compile Include="Module\Module_Value.vb" />
+    <Compile Include="Module\Mod_function.vb" />
+    <Compile Include="Module\mTransfer.vb" />
+    <Compile Include="Class\DBSqlServer.vb" />
+    <Compile Include="Menu\frmLogin.designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\Add_Combo.vb" />
+    <Compile Include="Module\ClassCommandSql.vb" />
+    <Compile Include="Module\Color_Alam.vb" />
+    <Compile Include="Module\Count_Sensor.vb" />
+    <Compile Include="Module\FloorController.vb" />
+    <Compile Include="Module\mAPI.vb" />
+    <Compile Include="Module\mCountCar.vb" />
+    <Compile Include="Module\mDB.vb" />
+    <Compile Include="Module\mDb_Net.vb" />
+    <Compile Include="Module\mDB_New.vb" />
+    <Compile Include="Module\mError.vb" />
+    <Compile Include="Module\mForm.vb" />
+    <Compile Include="Module\mHistory.vb" />
+    <Compile Include="Module\mMain.vb" />
+    <Compile Include="Module\mObject.vb" />
+    <Compile Include="Module\mPicture.vb" />
+    <Compile Include="Module\mSql_Con.vb" />
+    <Compile Include="Module\mUNION.vb" />
+    <Compile Include="Module\mUser.vb" />
+    <Compile Include="Module\mValible.vb" />
+    <Compile Include="Module\Report.vb" />
+    <Compile Include="Module\Turncate.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="User\frmProfile_User.designer.vb">
+      <DependentUpon>frmProfile_User.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\frmProfile_User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\frmUser.Designer.vb">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\frmUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\frmUser_Permission.Designer.vb">
+      <DependentUpon>frmUser_Permission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\frmUser_Permission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\frmUser_Permission_By_Level.designer.vb">
+      <DependentUpon>frmUser_Permission_By_Level.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\frmUser_Permission_By_Level.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\frmUser_Permission_By_Level_OLD.Designer.vb">
+      <DependentUpon>frmUser_Permission_By_Level_OLD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User\frmUser_Permission_By_Level_OLD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Abount\frm_With_Parktech.resx">
+      <DependentUpon>frm_With_Parktech.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddIn\Mas_Station_Company.resx">
+      <DependentUpon>Mas_Station_Company.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog_message\Dg_msg_Error.resx">
+      <DependentUpon>Dg_msg_Error.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog_message\Dg_msg_Ok.resx">
+      <DependentUpon>Dg_msg_Ok.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog_message\Dg_msg_Ok_Cancle.resx">
+      <DependentUpon>Dg_msg_Ok_Cancle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\frmMain_Menu_NEW.resx">
+      <DependentUpon>frmMain_Menu_NEW.vb</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Frm_change_language.resx">
+      <DependentUpon>Frm_change_language.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\frm_Parking_Quitity.resx">
+      <DependentUpon>frm_Parking_Quitity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\frm_Setting_Car_Controller.resx">
+      <DependentUpon>frm_Setting_Car_Controller.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\frm_Setting_Parking.resx">
+      <DependentUpon>frm_Setting_Parking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\frmProfile_User.resx">
+      <DependentUpon>frmProfile_User.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\frmUser.resx">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\frmUser_Permission.resx">
+      <DependentUpon>frmUser_Permission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\frmUser_Permission_By_Level.resx">
+      <DependentUpon>frmUser_Permission_By_Level.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\frmUser_Permission_By_Level_OLD.resx">
+      <DependentUpon>frmUser_Permission_By_Level_OLD.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Lib\Cryptography.Lib.dll.config" />
+    <None Include="MTL_Guidance.ini" />
+    <None Include="My Project\app.manifest" />
+    <None Include="Report_diagram.cd" />
+    <None Include="Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="on.wav" />
+    <Content Include="pt_logo_XvJ_icon.ico" />
+    <None Include="Resources\icons8-vpn-48.png" />
+    <None Include="Resources\img_not_available.png" />
+    <None Include="Resources\add1.png" />
+    <None Include="Resources\Logo_guidance.png" />
+    <None Include="Resources\Cover GMS3.jpg" />
+    <None Include="Resources\Cover GMS2.jpg" />
+    <None Include="Resources\Cover GMS.jpg" />
+    <None Include="Resources\Final_Png1.png" />
+    <None Include="Resources\Final_Png.png" />
+    <None Include="Resources\User Computer.png" />
+    <None Include="Resources\115.png" />
+    <None Include="Resources\Forum.png" />
+    <None Include="Resources\Alpha Dista Icon 050901.png" />
+    <None Include="Resources\Energy &amp; Utilities logo.JPG" />
+    <None Include="Resources\Energy &amp; Utilities logo1.JPG" />
+    <None Include="Resources\ParkriteLogo.gif" />
+    <None Include="Resources\MecombWhite.PNG" />
+    <None Include="Resources\MecombWhite1.PNG" />
+    <None Include="Resources\cpu_resources.png" />
+    <None Include="Resources\Cyclop Alienware.png" />
+    <None Include="Resources\webcam001.png" />
+    <None Include="Resources\webcam.png" />
+    <None Include="Resources\ObjectDock.png" />
+    <None Include="Resources\Alpha Dista Icon 050747.png" />
+    <None Include="Resources\Alpha Dista Icon 050211.png" />
+    <None Include="Resources\Ram.png" />
+    <None Include="Resources\webcam002.png" />
+    <None Include="Resources\network.png" />
+    <None Include="Resources\Entire Network.png" />
+    <None Include="Resources\ParkriteLogo1.gif" />
+    <None Include="Resources\Energy &amp; Utilities logo2.JPG" />
+    <None Include="Resources\60.png" />
+    <None Include="Resources\Alpha Dista Icon 0502111.png" />
+    <None Include="Resources\ObjectDock1.png" />
+    <None Include="Resources\Object Dock.png" />
+    <None Include="Resources\DesktopX.png" />
+    <None Include="Resources\Misc Icons.png" />
+    <None Include="Resources\Internet Explorer.png" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\My Documents2.png" />
+    <None Include="Resources\Hexic.png" />
+    <None Include="Resources\My Computer2.png" />
+    <None Include="Resources\gif file.png" />
+    <None Include="Resources\IconX.png" />
+    <None Include="Resources\Netdrive Connected.png" />
+    <None Include="Resources\Object Dock1.png" />
+    <None Include="Resources\ferrari.png" />
+    <None Include="Resources\chrysler.png" />
+    <None Include="Resources\ObjectDock2.png" />
+    <None Include="Resources\Home-Server-icon.png" />
+    <None Include="Resources\Copy of Network-Connection-icon.png" />
+    <None Include="Resources\Network-Connection-Failed-icon.png" />
+    <None Include="Resources\Netdrive Connected1.png" />
+    <None Include="Resources\Netdrive Connected2.png" />
+    <None Include="Resources\Netdrive Connected3.png" />
+    <None Include="Resources\NetDrive disconnect.png" />
+    <None Include="Resources\Search.png" />
+    <None Include="Resources\Search1.png" />
+    <None Include="Resources\cmdShow.Image.png" />
+    <None Include="Resources\Search.ico" />
+    <None Include="Resources\Alpha Dista Icon 0502112.png" />
+    <None Include="Resources\Alpha Dista Icon 0507471.png" />
+    <None Include="Resources\Alpha Dista Icon 0507472.png" />
+    <None Include="Resources\Alpha Dista Icon 050483.png" />
+    <None Include="Resources\Alpha Dista Icon 0502113.png" />
+    <None Include="Resources\AMD64 FX cpu.png" />
+    <None Include="Resources\utilman.png" />
+    <None Include="Resources\My Documents21.png" />
+    <None Include="Resources\601.png" />
+    <None Include="Resources\Messenger Alienware.png" />
+    <None Include="Resources\Alpha Dista Icon 0504831.png" />
+    <None Include="Resources\Regedit.png" />
+    <None Include="Resources\User Computer1.png" />
+    <None Include="Resources\1151.png" />
+    <None Include="Resources\Forum1.png" />
+    <None Include="Resources\images %282%29.jpg" />
+    <None Include="Resources\Object Dock2.png" />
+    <None Include="Resources\chrysler1.png" />
+    <None Include="Resources\ferrari1.png" />
+    <None Include="Resources\control_panel.png" />
+    <None Include="Resources\Sime_Darby_Logo.png" />
+    <None Include="Resources\01.png" />
+    <None Include="Resources\02.png" />
+    <None Include="Resources\021.png" />
+    <None Include="Resources\03.png" />
+    <None Include="Resources\04.png" />
+    <None Include="Resources\041.png" />
+    <None Include="Resources\05.png" />
+    <None Include="Resources\06.png" />
+    <None Include="Resources\07.png" />
+    <None Include="Resources\08.png" />
+    <None Include="Resources\09.png" />
+    <None Include="Resources\10.png" />
+    <None Include="Resources\11.png" />
+    <None Include="Resources\12.png" />
+    <None Include="Resources\13.png" />
+    <None Include="Resources\14.png" />
+    <None Include="Resources\15.png" />
+    <None Include="Resources\16.png" />
+    <None Include="Resources\17.png" />
+    <None Include="Resources\18.png" />
+    <None Include="Resources\19.png" />
+    <None Include="Resources\20.png" />
+    <None Include="Resources\21.png" />
+    <None Include="Resources\22.png" />
+    <None Include="Resources\23.png" />
+    <None Include="Resources\24.png" />
+    <None Include="Resources\25.png" />
+    <None Include="Resources\26.png" />
+    <None Include="Resources\10.gif" />
+    <None Include="Resources\011.png" />
+    <None Include="Resources\process.png" />
+    <None Include="Resources\up24.png" />
+    <None Include="Resources\down.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\back.png" />
+    <None Include="Resources\eng.png" />
+    <None Include="Resources\thai.png" />
+    <None Include="Resources\mycomputer_64.png" />
+    <None Include="Resources\server.png" />
+    <None Include="Resources\arrow_top.png" />
+    <None Include="Resources\arrow_top_right.png" />
+    <None Include="Resources\arrow_right.png" />
+    <None Include="Resources\arrow_bottom_rigth.png" />
+    <None Include="Resources\arrow_bottom.png" />
+    <None Include="Resources\arrow_bottom_left.png" />
+    <None Include="Resources\arrow_left.png" />
+    <None Include="Resources\arrow_top_left.png" />
+    <None Include="Resources\arrow_top1.png" />
+    <None Include="Resources\arrow_top_right1.png" />
+    <None Include="Resources\arrow_right1.png" />
+    <None Include="Resources\arrow_bottom_rigth1.png" />
+    <None Include="Resources\arrow_bottom1.png" />
+    <None Include="Resources\arrow_bottom_left1.png" />
+    <None Include="Resources\arrow_left1.png" />
+    <None Include="Resources\arrow_top_left1.png" />
+    <None Include="Resources\NetDrive disconnect1.png" />
+    <None Include="Resources\Netdrive Connected48.png" />
+    <None Include="Resources\NetDrive disconnect48.png" />
+    <None Include="Resources\car2.png" />
+    <None Include="Resources\car21.png" />
+    <None Include="Resources\car22.png" />
+    <None Include="Resources\car.png" />
+    <None Include="Resources\Netdrive Connected481.png" />
+    <None Include="Resources\car_full.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\database_refresh.png" />
+    <None Include="Resources\database_save.png" />
+    <None Include="Resources\building_edit.png" />
+    <None Include="Resources\zcu_edit.png" />
+    <None Include="Resources\building_edit2.png" />
+    <None Include="Resources\silen_edit.png" />
+    <None Include="Resources\silen_edit2.png" />
+    <None Include="Resources\main_edit.png" />
+    <None Include="Resources\main_display2.png" />
+    <None Include="Resources\zcu_status.png" />
+    <None Include="Resources\callpoint_status.png" />
+    <None Include="Resources\Sime_Darby_Logo1.png" />
+    <None Include="Resources\Copy of Vista_icons_08.gif" />
+    <None Include="Resources\loginmecomb.png" />
+    <Content Include="alarm.wav" />
+    <Content Include="AxInterop.Threed.dll" />
+    <Content Include="Cryptography.Lib.dll" />
+    <Content Include="Cryptography.Lib.pdb" />
+    <Content Include="DevComponents.DotNetBar.Design.dll" />
+    <Content Include="DevComponents.DotNetBar2.dll" />
+    <Content Include="Interop.ADODB.dll" />
+    <Content Include="Interop.ADOR.dll" />
+    <Content Include="Interop.MSAdodcLib.dll" />
+    <Content Include="Interop.nAuthen.dll" />
+    <Content Include="Interop.StdType.dll" />
+    <Content Include="Interop.Threed.dll" />
+    <Content Include="Interop.WMPLib.dll" />
+    <Content Include="Lib\Cryptography.Lib.dll" />
+    <Content Include="Lib\Cryptography.Lib.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,18 @@
+02-08-2016 15:37:06 : ตรวจพบความผิดพลาด ที่ frmNew_Display_All : Load_Button_New เลขที่ Err No : 13 รายละเอียดข้อผิดพลาด Err Descript : Unable to cast object of type 'System.Byte[]' to type 'System.Drawing.Image'. : 
+03-08-2016 09:29:08 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+03-08-2016 09:33:58 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+03-08-2016 09:34:58 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+03-08-2016 09:35:35 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+03-08-2016 09:36:37 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+03-08-2016 09:46:17 : ตรวจพบความผิดพลาด ที่ ฐานข้อมูล : บันทึกรปภาพ ลงฐานข้อมูล เลขที่ Err No : 3002 รายละเอียดข้อผิดพลาด Err Descript : File could not be opened. : 
+08-08-2016 16:24:52 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+08-08-2016 16:31:04 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+08-08-2016 16:43:15 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+18-08-2016 11:36:24 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+25-08-2016 15:57:09 : ตรวจพบความผิดพลาด ที่ frmNew_Display_All : Load_Button_New เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Not enough storage is available to process this command : 
+29-08-2016 11:49:35 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+29-08-2016 11:49:58 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+29-08-2016 11:50:01 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+29-08-2016 11:50:04 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+29-08-2016 11:50:28 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+29-08-2016 11:50:30 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 

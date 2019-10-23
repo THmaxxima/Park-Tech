@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PTI_GUIDANCE_CARCOUNT_Project.RPT_CAR_PARKING_BY_DAY_ADD1_frm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAQAAAECAEAAIAgQCABAICCQgABCAAAABAgAAAIAA=</HashCode>
+      <FileName>Report_Guidance\Report_CAR_IN_OUT\RPT_CAR_PARKING_BY_DAY_ADD1_frm.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

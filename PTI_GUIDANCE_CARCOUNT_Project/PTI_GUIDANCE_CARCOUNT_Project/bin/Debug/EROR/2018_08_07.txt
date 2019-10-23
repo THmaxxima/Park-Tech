@@ -1,0 +1,2 @@
+07/08/2018 00:09:52=> readTableData : SELECT count(*) FROM V_Mas_CallPoint_Alert WHERE Count_Status_id > 0 :Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+07/08/2018 00:10:48=> readTableData : SELECT count(*) FROM V_Mas_CallPoint_Alert WHERE Count_Status_id > 0 :Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.

@@ -1,0 +1,694 @@
+09/08/2018 19:05:07=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:A transport-level error has occurred when sending the request to the server. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)
+09/08/2018 19:05:08=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:08=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:08=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:08=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:08=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'MTL_GUIDANCE.dbo.Q_Mas_Lot'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+09/08/2018 19:05:09=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:09=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:09=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:09=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'MTL_GUIDANCE.dbo.Q_Mas_Lot'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+09/08/2018 19:05:09=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:10=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:10=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:10=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:10=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'MTL_GUIDANCE.dbo.Q_Mas_Lot'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+09/08/2018 19:05:10=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:11=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:11=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:11=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:11=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'MTL_GUIDANCE.dbo.Q_Mas_Lot'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+09/08/2018 19:05:12=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:12=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'MTL_GUIDANCE.dbo.Q_Mas_Lot'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+09/08/2018 19:05:12=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:12=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:12=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:13=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:13=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Invalid object name 'MTL_GUIDANCE.dbo.Q_Mas_Lot'.
+Could not use view or function 'V_Main_Floor_Display' because of binding errors.
+09/08/2018 19:05:13=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:13=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:13=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:14=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:14=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:A transport-level error has occurred when sending the request to the server. (provider: Shared Memory Provider, error: 0 - No process is on the other end of the pipe.)
+09/08/2018 19:05:15=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:15=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:15=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:17=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:18=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:18=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:18=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:18=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:18=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:19=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:19=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:19=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:19=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:19=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:20=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:21=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:21=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:21=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:21=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:21=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:22=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:22=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:22=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:22=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:22=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:23=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:23=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:23=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:23=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:23=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:24=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:24=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:24=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:24=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:25=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:25=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:25=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:25=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:25=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:26=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:27=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:27=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:27=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:27=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:27=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:28=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:28=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:28=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:28=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:29=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:29=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:29=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:29=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:29=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:30=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:30=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:30=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:30=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:30=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:31=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:31=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:31=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:31=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:31=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:32=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:33=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:33=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:33=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:33=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:33=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:34=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:34=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:34=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:34=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:34=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:35=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:35=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:35=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:35=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:35=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:36=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:36=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:36=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:37=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:37=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:37=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:37=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:37=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:38=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:38=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:39=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:39=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:39=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:39=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:39=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:40=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:40=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:40=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:40=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:40=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:41=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:41=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:41=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:41=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:42=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:42=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:42=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:42=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:42=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:43=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:43=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:43=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:43=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:43=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:44=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:44=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:45=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:45=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:45=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:45=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:46=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:46=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:46=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:46=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:47=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:47=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:47=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:47=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:47=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:48=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:48=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:48=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:48=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:48=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:49=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:49=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:49=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:49=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:50=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:50=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:51=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:51=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:51=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:51=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:51=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:52=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:52=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:52=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:52=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:52=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:53=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:53=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:53=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:53=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:54=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:54=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:54=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:54=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:54=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:55=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:55=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:55=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:55=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:55=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:56=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:57=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:57=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:57=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:57=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:58=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:58=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:58=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:58=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:58=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:59=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:59=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:59=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:59=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:05:59=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:00=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:00=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:00=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:00=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:00=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:01=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:01=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:01=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:01=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:01=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:02=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:03=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:03=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:03=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:03=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:03=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:04=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:04=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:04=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:04=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:04=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:05=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:05=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:05=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:05=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:05=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:06=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:06=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:06=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:06=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:07=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:07=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:07=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:07=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:08=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:08=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:09=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:09=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:09=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:09=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:09=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:10=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:10=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:10=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:10=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:11=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:11=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:11=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:11=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:11=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:12=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:12=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:12=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_A :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:12=> readTableData :SELECT TOP 1 * FROM Lbl_Alert_B :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:12=> readTableData :SELECT TOP 1 *  FROM Lbl_Alert_C :Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:13=> readTableData :SELECT * FROM [V_Main_Floor_Display] order by [Building_ID],[Floor_ID]:Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 19:06:13=> readTableData :SELECT  [Hour_ID],[Hour_Value] FROM [dbo].[Mas_Hour_Parking] order by [Hour_ID]:Cannot open database "MTL_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:23:44=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:24:09=> readTableData :SELECT [User_ID],[User_Name],Convert(nVarchar(50),[User_PWD]) as User_PWD,[User_FirstName],[User_LastName],[Cancel],User_Position FROM Mas_User WHERE User_Name = 'parktech':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:24:16=> readTableData :SELECT [User_ID],[User_Name],Convert(nVarchar(50),[User_PWD]) as User_PWD,[User_FirstName],[User_LastName],[Cancel],User_Position FROM Mas_User WHERE User_Name = 'parktech':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Main':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='M_Setting':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_Report':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rib_User':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nfrmNew_Display':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem112':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem113':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='mBtn_Exit':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='nMas_Floor':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem96':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem100':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem99':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem97':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem98':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem101':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem103':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem91':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='rb_Report_ADD1':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='ButtonItem104':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserManager':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='btnUserProfile':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmMain_Menu_NEW' and Label_name='Rib_User_Level':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT [Lang_Select] FROM [LANG_Select] WHERE [Id_]='1':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='UsernameLabel':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='PasswordLabel':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='OK':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:16=> readTableData :SELECT Label_name,TH FROM LANG_Discription WHERE [Form_name]='frmLogin' and Label_name='Cancel':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:23=> readTableData :SELECT [User_ID],[User_Name],Convert(nVarchar(50),[User_PWD]) as User_PWD,[User_FirstName],[User_LastName],[Cancel],User_Position FROM Mas_User WHERE User_Name = 'Parktech':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:26=> readTableData :SELECT [User_ID],[User_Name],Convert(nVarchar(50),[User_PWD]) as User_PWD,[User_FirstName],[User_LastName],[Cancel],User_Position FROM Mas_User WHERE User_Name = 'Parktech':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:42=> readTableData :SELECT [User_ID],[User_Name],Convert(nVarchar(50),[User_PWD]) as User_PWD,[User_FirstName],[User_LastName],[Cancel],User_Position FROM Mas_User WHERE User_Name = 'Parktech':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:54=> readTableData :SELECT [User_ID],[User_Name],Convert(nVarchar(50),[User_PWD]) as User_PWD,[User_FirstName],[User_LastName],[Cancel],User_Position FROM Mas_User WHERE User_Name = 'parktech':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.
+09/08/2018 20:25:57=> readTableData :SELECT [User_ID],[User_Name],Convert(nVarchar(50),[User_PWD]) as User_PWD,[User_FirstName],[User_LastName],[Cancel],User_Position FROM Mas_User WHERE User_Name = 'sdasd':Cannot open database "MTL_MASTER_GUIDANCE" requested by the login. The login failed.
+Login failed for user 'sa'.

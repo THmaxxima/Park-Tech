@@ -1,0 +1,58 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConStr_Master" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=MTL_MASTER_GUIDANCE;User ID=sa;Password=cps10mtl&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=MTL_MASTER_GUIDANCE;User ID=sa;Password=cps10mtl</Value>
+    </Setting>
+    <Setting Name="ConnStrGuidance_RPT" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=PTI_GUIDANCE_CARCOUNT_Project;Persist Security Info=False;User ID=sa;Password=cps10mtl&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=PTI_GUIDANCE_CARCOUNT_Project;Persist Security Info=False;User ID=sa;Password=cps10mtl</Value>
+    </Setting>
+    <Setting Name="ConnStrMaster_RPT" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=MTL_MASTER_GUIDANCE;Persist Security Info=False;User ID=sa;Password=cps10mtl&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=MTL_MASTER_GUIDANCE;Persist Security Info=False;User ID=sa;Password=cps10mtl</Value>
+    </Setting>
+    <Setting Name="ConStr_Guidance" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=PTI_GUIDANCE_CARCOUNT_Project;User ID=sa;Password=cps10mtl&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=TANAPOP-PC\SQL2012SP1;Initial Catalog=PTI_GUIDANCE_CARCOUNT_Project;User ID=sa;Password=cps10mtl</Value>
+    </Setting>
+    <Setting Name="Debug_Mode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ConnStrMaster" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sa;Initial Catalog=MTL_MASTER_GUIDANCE;Data Source=TANAPOP-PC\SQL2012SP1;PWD=cps10mtl;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sa;Initial Catalog=MTL_MASTER_GUIDANCE;Data Source=TANAPOP-PC\SQL2012SP1;PWD=cps10mtl;</Value>
+    </Setting>
+    <Setting Name="ConnStrGuidance" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sa;Initial Catalog=PTI_GUIDANCE_CARCOUNT_Project;Data Source=TANAPOP-PC\SQL2012SP1;PWD=cps10mtl;&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=SQLOLEDB.1;Persist Security Info=False;User ID=sa;Initial Catalog=PTI_GUIDANCE_CARCOUNT_Project;Data Source=TANAPOP-PC\SQL2012SP1;PWD=cps10mtl;</Value>
+    </Setting>
+    <Setting Name="GREEN" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

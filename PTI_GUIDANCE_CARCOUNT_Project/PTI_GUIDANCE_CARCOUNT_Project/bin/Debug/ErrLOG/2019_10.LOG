@@ -1,0 +1,35 @@
+23-10-2019 19:45:45 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 19:46:32 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 19:46:35 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 19:51:53 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 20:24:59 : ตรวจพบความผิดพลาด ที่ mUser : LogIN เลขที่ Err No : -2147217900 รายละเอียดข้อผิดพลาด Err Descript : Invalid column name 'Log_Date'. : 
+23-10-2019 20:26:02 :  :  ErrNo : Excute SQL Connection :  ErrDescript :  : 
+23-10-2019 20:26:02 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 20:26:03 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 21:02:43 :  :  ErrNo : Excute SQL Connection :  ErrDescript :  : 
+23-10-2019 21:02:43 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 21:02:43 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 21:29:44 :  :  ErrNo : Excute SQL Connection :  ErrDescript :  : 
+23-10-2019 21:36:46 : ตรวจพบความผิดพลาด ที่ mUser : LogIN เลขที่ Err No : -2147217900 รายละเอียดข้อผิดพลาด Err Descript : Invalid column name 'Log_Date'. : 
+23-10-2019 22:07:43 :  :  ErrNo : Excute SQL Connection :  ErrDescript : SELECT * FROM [Menu_Permit] WHERE isnull([MenuName],'')='ButtonItem111' and isnull([User_Level],'')='7' : 
+23-10-2019 22:07:43 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 22:07:43 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:07:53 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:08:32 :  :  ErrNo : Excute SQL Connection :  ErrDescript :  Select * from Mas_User  : 
+23-10-2019 22:08:32 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 22:08:32 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:08:37 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 22:08:37 : ตรวจพบความผิดพลาด ที่ frmUser : Load_User_Detail เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:09:22 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:09:25 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 22:09:25 : ตรวจพบความผิดพลาด ที่ frmUser : Load_User_Detail เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:09:32 :  :  ErrNo : Excute SQL Connection :  ErrDescript :  Select * from Mas_User  : 
+23-10-2019 22:09:32 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 22:09:32 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:09:37 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 22:09:37 : ตรวจพบความผิดพลาด ที่ frmUser : Load_User_Detail เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:10:43 :  :  ErrNo : Excute SQL Connection :  ErrDescript : SELECT * FROM [Menu_Permit] WHERE isnull([MenuName],'')='ButtonItem111' and isnull([User_Level],'')='5' : 
+23-10-2019 22:10:43 : mDB : OpenCnn ErrNo : -2147467259 ErrDescript : [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified : 
+23-10-2019 22:10:43 : ตรวจพบความผิดพลาด ที่ frmUser : LoadUserList เลขที่ Err No : 5 รายละเอียดข้อผิดพลาด Err Descript : Column 'User_Gender' does not belong to table 0. : 
+23-10-2019 22:11:32 :  :  ErrNo : Excute SQL Connection :  ErrDescript : INSERT INTO [Menu_Permit] ([ID],[MenuName],[Control_Name],[User_Level],[User_Id],[IsCommit]) VALUES('43','ButtonItem111','MENU','6','9999','1') : 
+23-10-2019 22:12:50 :  :  ErrNo : Excute SQL Connection :  ErrDescript : SELECT * FROM [Menu_Permit] WHERE isnull([MenuName],'')='ButtonItem111' and isnull([User_Level],'')='5' : 
